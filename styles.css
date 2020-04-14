@@ -1,0 +1,10 @@
+body {
+  background-color: skyblue;
+  color: white;
+}
+div {
+  text-align: center;
+  height: 70px;
+  width: 800px;
+  background: darkblue;
+}
